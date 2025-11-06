@@ -1,0 +1,10 @@
+- [x] Adapt the EMI Calculator to a Coding Platform app
+- [x] Change app title to "Coding Platform"
+- [x] Update AppBar title to "Code Runner"
+- [x] Replace loan amount field with code input (multiline TextFormField)
+- [x] Replace interest rate field with language selection (TextFormField)
+- [x] Replace tenure field with input data (optional TextFormField)
+- [x] Change button text to "Run Code"
+- [x] Update result display to show simulated code output
+- [x] Adjust validation for new fields
+- [x] Replace the entire lib/main.dart with the adapted code
